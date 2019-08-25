@@ -3,7 +3,7 @@
 #define max 5
 int rear=-1;
 int front=-1;
-int queue[max];
+int queue[5];
 void insert(int element);
 void del();
 void display();
